@@ -60,7 +60,7 @@ TODO
  ![image](/figs/quantitative.png)
 ### Qualitative results
  ![image](/figs/qualitative.png)
-#### More details can be found in our paper!
+#### More details can be found in our paper and our https://xyjin99.github.io/RFE-VCR/ !
 
 
 ## Contact
