@@ -3,7 +3,7 @@
 
 PyTorch codes for "[RFE-VCR: Reference-enhanced transformer for remote sensing video cloud removal](https://www.sciencedirect.com/science/article/abs/pii/S092427162400248X)", **ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)**, 2024.
 
-Authors: Xianyu Jin, [Jiang He*](https://jianghe96.github.io/), [Yi Xiao](https://xy-boy.github.io/), Ziyang Lihe, XusiLiao, Jie Li, and Qiangqiang Yuan*<br>
+Authors: Xianyu Jin, [Jiang He*](https://jianghe96.github.io/), [Yi Xiao](https://xy-boy.github.io/), Ziyang Lihe, Xusi Liao, Jie Li, and Qiangqiang Yuan*<br>
 Wuhan University
 
 ### Abstract
