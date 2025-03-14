@@ -1,5 +1,5 @@
 # RFE-VCR (ISPRS 2024)
-### 📖[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S092427162400248X) | 🖼️[**PDF**](/figs/RFE-VCR.png)
+### 📖[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S092427162400248X) | 🖼️[**PDF**](/figs/RFE-VCR.pdf)
 
 PyTorch codes for "[RFE-VCR: Reference-enhanced transformer for remote sensing video cloud removal](https://www.sciencedirect.com/science/article/abs/pii/S092427162400248X)", **ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)**, 2024.
 
@@ -7,7 +7,7 @@ Authors: Xianyu Jin, [Jiang He*](https://jianghe96.github.io/), [Yi Xiao](https:
 Wuhan University
 
 ### Abstract
->As a novel data source for earth observation, satellite video can provide large-scale temporal information for dynamic monitoring. However, the cloud occlusion prevents satellite video from continuous and seamless observation of the earth’s surface. We propose the first satellite video cloud removal model RFE-VCR to approach this problem. In RFE-VCR, an efficient strategy of taking distant frames into training period is applied. A reference enhance block based on gated aggregation layers is proposed to explore the complementary information hidden in distant frames. A bidirectional local enhance block using deformable convolution is improved for feature refinement. Moreover, a decoupled temporal-spatial transformer is utilized for long distance dependence modeling. Simulative and real experiments on Jilin-1 satellite videos demonstrate that our proposed network can achieve remarkable performance in video cloud removal task, as well as sensitive object hiding and high-reflection removal. More dynamic results of our experiments can be found at https://xyjin99.github.io/RFE-VCR/.
+>As a novel data source for earth observation, satellite video can provide large-scale temporal information for dynamic monitoring. However, the cloud occlusion prevents satellite video from continuous and seamless observation of the earth’s surface. We propose the first satellite video cloud removal model RFE-VCR to approach this problem. In RFE-VCR, an efficient strategy of taking distant frames into training period is applied. A reference enhance block based on gated aggregation layers is proposed to explore the complementary information hidden in distant frames. A bidirectional local enhance block using deformable convolution is improved for feature refinement. Moreover, a decoupled temporal-spatial transformer is utilized for long-distance dependence modeling. Simulative and real experiments on Jilin-1 satellite videos demonstrate that our proposed network can achieve remarkable performance in video cloud removal task, as well as sensitive object hiding and high-reflection removal. More dynamic results of our experiments can be found at https://xyjin99.github.io/RFE-VCR/.
 
 ### Overall
  ![image](/figs/network.png)
